@@ -1,5 +1,5 @@
 {
-    "name": "webdna/imageshop-dam",
+    "name": "99x/imageshop",
     "description": "ImageShop DAM Integration for CraftCMS",
     "type": "craft-plugin",
     "keywords": [
@@ -16,8 +16,8 @@
     "license": "proprietary",
     "authors": [
         {
-            "name": "WebDNA",
-            "homepage": "https://webdna.co.uk"
+            "name": "99x",
+            "homepage": "https://99x.io"
         }
     ],
     "require": {
@@ -29,10 +29,10 @@
         }
     },
     "extra": {
-        "name": "ImageShop",
-        "handle": "imageshop-dam",
-        "developer": "WebDNA",
-        "developerUrl": "https://webdna.co.uk",
+        "name": "99x ImageShop",
+        "handle": "imageshop",
+        "developer": "99x",
+        "developerUrl": "https://99x.io",
         "changelogUrl": "https://raw.githubusercontent.com/webdna/imageshop/master/CHANGELOG.md",
         "class": "webdna\\imageshop\\ImageShop"
     }
